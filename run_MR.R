@@ -36,10 +36,3 @@ for (exposure in exposures) {
     dev.off()
   }
 }
-# --------------------------------------
-
-# MR LARGE NUMBER EXPOSURES & OUTCOMES
-
-# ANALYSE THE DATA TO IDENTIFY E & O PAIRS INTERESTING CAUSAL ASSOCIATIONS
-
-# VISUALISE & PRESENT (REPORT) DATA TO NON-STATITSTICAL AUDIENCE
