@@ -1,7 +1,7 @@
 library(TwoSampleMR)
 library(dplyr)
 setwd('/home/adity/Documents/Horizon/test/')
-# Load the downloaded RData object. This loads the rf object
+# Load the downloaded RData object. This will load the rf object
 load("store/rf.rdata")
 #ao = available_outcomes()
 
