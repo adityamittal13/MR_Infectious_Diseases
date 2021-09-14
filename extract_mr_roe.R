@@ -15,7 +15,7 @@ for (exposure in exposures){
       loc_outcome = which(ao$id == as.character(estimates$id.outcome[index]))
       outcome_name = as.character(ao[loc_outcome,]$trait)
       val = cbind(estimates[index,], exposure_name)
-      val = cbind(val, outcome_name)
+      val = cbind(val, outcome_name) 
       if (is.null(df)) {
         df = val
       } else {
